@@ -2,6 +2,7 @@ import pyautogui as pg
 from time import sleep
 from time import time
 #website url: http://www.koalastothemax.com/
+#tested on 2k monitor so prob wont work on FHD oopsy
 print("starting ")
 #Corner Values
 #Left top: x= 1030, y=460
